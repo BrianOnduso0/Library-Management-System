@@ -1,6 +1,5 @@
 from utils import *
 
-# Main program
 def main():
     while True:
         print("\nChoose an action:")

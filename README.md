@@ -18,6 +18,12 @@ Prerequisites
 
 Database
 -The system uses an SQLite database to store information about books, members, and borrow records. The database file is named library.db.
+-To initiate the databe run command: python cli.py init   
+-To add a user or member run command: python cli.py add-member "Ryan Onchwari"
+-To remove a user or member run command: python cli.py remove-member "Ryan Onchwari"
+-To list all members run the command: python cli.py list-members 
+-To  add a new book run the command: python cli.py add-book "Python Programming" "Moringa School" 10
+-To remove a book from the system run the command: python cli.py remove-book "Python Programming" 2 
 
 Installation
 Clone the repository to your local machine:

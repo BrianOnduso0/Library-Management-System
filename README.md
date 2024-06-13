@@ -1,4 +1,5 @@
-<!-- Library Management System
+Library Management System
+
 This is a simple library management system developed using Python and SQLite. It allows the admins and users to perform various tasks like adding and removing members from the system by Admins Only, adding and removing books from the system by Admins only , borrowing books and returning of books by users or members whereby the availability of a book in the system is clearly defined. It also provides a report of all borrowed books with details
 
 Features
